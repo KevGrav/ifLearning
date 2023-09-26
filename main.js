@@ -32,9 +32,9 @@ function howLongIsMyString(string){
 
 function instructorHeight(name){
   if (name === 'Kyle'){
-    return "70"}
+    return 70}
     if (name === 'Jason'){
-      return "73"}
+      return 73}
       else {
         return "I don't know that instructor!"}
   }
